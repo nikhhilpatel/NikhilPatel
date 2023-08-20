@@ -32,7 +32,7 @@ In this project, I delved into the realm of internet browser memory forensics, u
 
 Feel free to connect with me on LinkedIn or via email for collaboration opportunities or discussions related to cybersecurity.
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [Your LinkedIn Profile]((https://www.linkedin.com/in/nikhhilpatel/))
 - Email: nikhhil.patel@gmail.com
 
 Thank you for visiting my GitHub portfolio! Your feedback and suggestions are always welcome.
