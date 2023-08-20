@@ -12,7 +12,7 @@ I am a passionate and dedicated Cybersecurity Graduate Student with a strong bac
 
 In this project, I delved into the realm of internet browser memory forensics, utilizing tools like Redline to uncover digital artifacts and potential security breaches. The project aimed to demonstrate the significance of memory analysis in digital investigations and showcase how internet browsers store crucial data.
 
-- Project Link: [Internet Browser Memory Forensics] Digital Forensics/Final Project.pdf
+- Project Link: [Internet Browser Memory Forensics]
   
 ## Skills
 
@@ -32,7 +32,7 @@ In this project, I delved into the realm of internet browser memory forensics, u
 
 Feel free to connect with me on LinkedIn or via email for collaboration opportunities or discussions related to cybersecurity.
 
-- LinkedIn: https://www.linkedin.com/in/nikhhilpatel/
+- LinkedIn: Nikhil Patel
 - Email: nikhhil.patel@gmail.com
 
 Thank you for visiting my GitHub portfolio! Your feedback and suggestions are always welcome.
