@@ -1,4 +1,4 @@
-# Cybersecurity Engineer Portfolio
+# Security Engineer Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases my journey as a Cybersecurity Graduate, highlighting my projects, skills, and contributions to the field. 
 
