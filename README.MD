@@ -14,15 +14,11 @@ I am passionate about improving the workplace experience through technology—wh
 
 ### 🧑‍💼 Active Directory Onboarding Automation
 Automates the creation of new users in Active Directory, including user provisioning, group assignments, and password enforcement using PowerShell scripting.
-- 🔗 [View Script](./scripts/AD_Onboarding/New-ADUser-Onboarding.ps1)
+- 🔗 [View Script](Project 1: AD Onboarding Automation Script/New-ADUser-Onboarding.ps1)
 
 ### 🔐 Cisco AnyConnect VPN Profile Deployment
 Deploys pre-configured Cisco VPN profiles to user machines for consistent and secure remote access.
-- 🔗 [View Script](./scripts/VPN_Profile/VPN-Profile-Deployment.ps1)
-
-### 🧠 Internet Browser Memory Forensics
-Explores browser memory analysis using tools like Redline to recover sensitive digital artifacts and understand browser-based attack surfaces.
-- 🔗 [Read Project PDF](https://github.com/nikhhilpatel/NikhilPatel/blob/b26d1bfd5d4088ad51110d88bd6ce48ebe822f9d/Digital%20Forensics/Final%20Project.pdf)
+- 🔗 [View Script]( Project 2: VPN Access Deployment Script/VPN-Profile-Deployment.ps1)
 
 ---
 
