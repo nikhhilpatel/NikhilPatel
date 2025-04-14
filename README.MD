@@ -14,11 +14,11 @@ I am passionate about improving the workplace experience through technology—wh
 
 ### 🧑‍💼 Active Directory Onboarding Automation
 Automates the creation of new users in Active Directory, including user provisioning, group assignments, and password enforcement using PowerShell scripting.
-- 🔗 [View Script](Project 1: AD Onboarding Automation Script/New-ADUser-Onboarding.ps1)
+- 🔗 [View Script](https://github.com/nikhhilpatel/NikhilPatel/blob/9cbd867142afe8ba8cd6db4877c91b104719b19d/Project%201%3A%20AD%20Onboarding%20Automation%20Script/New-ADUser-Onboarding.ps1)
 
 ### 🔐 Cisco AnyConnect VPN Profile Deployment
 Deploys pre-configured Cisco VPN profiles to user machines for consistent and secure remote access.
-- 🔗 [View Script]( Project 2: VPN Access Deployment Script/VPN-Profile-Deployment.ps1)
+- 🔗 [View Script](https://github.com/nikhhilpatel/NikhilPatel/blob/5cba6282d9da778d6c287ac0754c934eb4c60715/%20Project%202%3A%20VPN%20Access%20Deployment%20Script/VPN-Profile-Deployment.ps1)
 
 ---
 
